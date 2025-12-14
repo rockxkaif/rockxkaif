@@ -1,7 +1,11 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kaif+Ansari+👋;Frontend+%2F+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Modern+Web+Apps;Building+Clean+and+Scalable+UI" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Kaif+Ansari;Frontend+%2F+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Modern+Web"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
