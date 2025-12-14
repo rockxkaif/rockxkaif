@@ -72,15 +72,21 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockxkaif&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rockxkaif&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rockxkaif&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockxkaif&theme=tokyonight" />
-</p>
 
 ---
 
