@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 
-🚀 Frontend / Full-Stack Developer focused on building **clean, scalable, and high-performance web applications**.
+🚀 Frontend / Full-Stack Developer with hands-on industry experience, focused on building **clean, scalable, and high-performance web applications**.
 
-- 🎓 B.Tech in Computer Science & Engineering  
-- ⚛️ 1.5+ years hands-on experience with **React.js**
+- 💼 Worked as a Software Engineer at **Cisco (Bangalore)**
+- ⚛️ 1.5+ years of hands-on experience with **React.js**
 - 🧠 Strong in component design, hooks, and state management
 - 🔐 Experience with authentication, protected routes, and REST APIs
-- ⚙️ Familiar with CI/CD, Docker, and modern deployment workflows
+- ⚙️ Familiar with CI/CD pipelines, Docker, and modern deployment workflows
 - 🎯 Actively seeking **Frontend / Full-Stack Developer** roles
 
 ---
