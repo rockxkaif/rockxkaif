@@ -52,7 +52,7 @@
 ### 📝 Task Manager (MERN)
 - JWT authentication & protected routes
 - CRUD operations with MongoDB
-- Clean REST API architecture  
+- Clean REST API architecture
 🔗 Live: https://mern-task-manager.netlify.app/login
 
 ---
